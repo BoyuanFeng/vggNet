@@ -18,7 +18,7 @@ https://drive.google.com/open?id=1y4pjIpnPUvf1gBn8TdT0sob23npSveDC
 
 
 ### Train vgg16 by yourself
-Put the code in the same directory with data and run "python3 vggRestore.py".
+Put the code in the same directory with data and run "python3 vggTrain.py".
 
 ### Use pretrained model 
 Assuming the code is put in directory ".", please download the following three files and save it in the directory "./vggNet". Then you can run the model by "python3 vggRestore.py".
